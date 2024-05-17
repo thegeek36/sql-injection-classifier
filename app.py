@@ -38,6 +38,6 @@ if st.button('Classify'):
 
 st.markdown("""<br><br><br>
 <div style="text-align: center;">
-    <p>Developed By Yogesh, Soham, Akash & Yash</p>
+    <p>Developed By Priyanshu Panda</p>
 </div>
 """, unsafe_allow_html=True)
